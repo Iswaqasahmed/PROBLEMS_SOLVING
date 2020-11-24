@@ -3,6 +3,7 @@
 
 
 ### Remove Duplicate Items in Array/list 
-array = [1,2,3,4,3,2,1] 
-new_array = [1,2,3,4]
-duplicates = {1:2,2:2,3:2}
+array = [1,2,3,4,3,2,1]                                                                                                                                                             
+new_array = [1,2,3,4]                                                                                                                                                               duplicates = { 1 : 2 , 2 : 2 , 3 : 2 }
+
+
